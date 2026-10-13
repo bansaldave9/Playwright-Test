@@ -89,3 +89,5 @@ class CartPage extends BasePage {
 }
 
 export default CartPage;
+//add comment
+console.log("CartPage module loaded successfully.");
