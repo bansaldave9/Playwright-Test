@@ -531,3 +531,6 @@ class BasePage {
 }
 
 export default BasePage;
+
+//comment
+console.log("BasePage.js loaded successfully");
